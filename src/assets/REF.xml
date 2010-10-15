@@ -1,0 +1,13 @@
+<country >
+				<field zero_x="0" zero_y="0" size_x="60" size_y="60">
+					<clover id="1" x="0" y="0"  /> 
+					<sunflower id="2" x="0" y="5"  /> 
+					<potato id="3" x="0" y="10"  /> 
+					<clover id="4" x="5" y="0"  /> 
+					<sunflower id="5" x="5" y="5"  /> 
+					<potato id="6" x="5" y="10"  />
+					<clover id="7" x="0" y="25"  /> 
+					<sunflower id="8" x="0" y="20"  /> 
+					<potato id="9" x="0" y="15"  />
+				</field>
+			 </country>
