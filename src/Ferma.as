@@ -34,6 +34,7 @@ package
 		
 		public function Ferma ()
 		{
+			trace ("Little change for Git Test!");
 			setBackground();
 			var xmlLoader:URLLoader = new URLLoader();
 			xmlLoader.dataFormat = URLLoaderDataFormat.TEXT;
